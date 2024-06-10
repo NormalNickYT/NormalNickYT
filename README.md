@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nick Koster</h1>
 <h3 align="center">Passionate Computer Science Student at Dutch University of Applied Sciences Windesheim | Enthusiastic about Crafting Seamless Experiences: Frontend & Backend Developer</h3>
 
-- 🌱 I’m currently learning **C, Python, **
+- 🌱 I’m currently learning **C, Three.js**
 
 - 📫 How to reach me **nickkoster2001@hotmail.com**
 
