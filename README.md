@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nick Koster</h1>
 <h3 align="center">Passionate Computer Science Student at Dutch University of Applied Sciences Windesheim | Enthusiastic about Crafting Seamless Experiences: Frontend & Backend Developer</h3>
 
-- 🌱 I’m currently learning **Golang, Python**
+- 🌱 I’m currently learning **C, Python, **
 
 - 📫 How to reach me **nickkoster2001@hotmail.com**
 
@@ -34,7 +34,10 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Expressjs" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="typescript" width="40" height="40"/> 
+</p>
 
 <h3 align="left">Currently Learning:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
