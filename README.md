@@ -12,7 +12,7 @@
 -   C
 -   Machine Learning / Deep Learning, with a focus on neural networks such as CNNs and RNNs using tensorflow
 -   Python 
--   Actively working with Linux and mastering Bash commands
+-   Actively working with Linux 
 -   ExpressJS
 
 📫 How to reach me **nickkoster2001@hotmail.com**
