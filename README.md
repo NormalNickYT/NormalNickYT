@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  I am a Junior Software Developer with a deep passion for software engineering and technology. My journey in tech began in 2018 while studying Software Development at Alfa College, where I discovered my love for programming. Since then, I have been dedicated to honing my     skills and expanding my knowledge. Currently, I am in my final year of studying Applied Sciences at Windesheim.
+  I am a Junior Software Developer with a deep passion for software engineering and technology. My journey in tech began in 2018 while studying Software Development at Alfa College, where I discovered my love for programming. Since then, I have been dedicated to improving my     skills and expanding my knowledge. Currently, I am in my final year of studying Applied Sciences at Windesheim.
 </p>
 
 ### 🌱 I'm currently enhancing my skills in:
